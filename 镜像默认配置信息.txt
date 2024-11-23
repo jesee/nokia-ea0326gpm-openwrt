@@ -1,0 +1,15 @@
+后台登录地址：
+192.168.1.1    （登陆后建议将ip地址从192.168.1.1改成192.168.5.1  避免和光猫冲突，改完ssh的ip也会跟着变）
+
+账号：
+root
+
+密码：
+password
+
+
+ssh：
+ssh root@192.168.1.1    密码：password
+
+
+wifi 默认ssid：lede，默认密码：password
