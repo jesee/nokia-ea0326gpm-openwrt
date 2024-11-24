@@ -18,8 +18,9 @@
 
 4. **刷入 U-Boot**：
    - **指令 1**：
+     - 查看 mtd 分区情况，可以用命令备份每个分区(例如：dd if=/dev/mtd1 of=/tmp/firmware_backup.bin)
      ```bash
-     cat /proc/mtd  # 查看 mtd 分区情况，可以用命令备份每个分区(例如：dd if=/dev/mtd1 of=/tmp/firmware_backup.bin)
+     cat /proc/mtd
      ```
    - **指令 2**：
      - 将 `刷入 U-Boot 分区/mt7981_nokia_ea0326gmp-fip-fixed-parts.bin` 上传或拖入到 `/tmp` 目录
