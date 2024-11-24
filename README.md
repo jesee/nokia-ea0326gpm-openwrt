@@ -44,8 +44,10 @@
    - 登录进去后建议先修改网络接口 IP 地址，将 `192.168.1.1` 改成 `192.168.5.1` 避免和光猫等设备冲突
    - 改完之后连上光猫网线就可以联网了
 
-7. **继承了 OpenClash 组件可以直接用**
+7. **编译集成 OpenClash 组件可以直接用**
 
 ## 附录
 
 固件基于 LEDE 源码编译：[https://github.com/coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)
+内核版本：6.6.63
+源版本：24.10
