@@ -1,8 +1,8 @@
-# 诺基亚贝尔AX3000（ea0325gpm）刷openwrt
+# 诺基亚贝尔AX3000（Nokia EA0326GMP）刷openwrt
 
 ## 简介
 
-诺基亚贝尔 AX3000 刷最新版 OpenWrt | 基于 LEDE 源码手动编译 | 纯净版集成科学
+诺基亚贝尔 AX3000 (Nokia EA0326GMP) 刷最新版 OpenWrt | 基于 LEDE 源码手动编译 | 纯净版集成科学
 
 1. **登录路由器管理后台**：`192.168.10.1`
 
