@@ -1,4 +1,4 @@
-# ea0325gpm-openwrt
+# 诺基亚贝尔AX3000（ea0325gpm）刷openwrt
 
 ## 简介
 
