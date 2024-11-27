@@ -1,8 +1,7 @@
 
 ## 简介
 
-诺基亚贝尔 AX3000 (Nokia EA0326GMP) 刷最新版 OpenWrt | 基于 LEDE 源码手动编译 | 纯净版集成科学
-OpenClash和DDNS-GO可用
+诺基亚贝尔 AX3000 (Nokia EA0326GMP) 刷最新版 OpenWrt | OpenClash和DDNS-GO可用
 
 1. **登录路由器管理后台**：`192.168.10.1`
 
