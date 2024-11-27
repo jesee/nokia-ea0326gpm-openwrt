@@ -49,5 +49,7 @@
 ## 附录
 
 固件基于 LEDE 源码编译：[https://github.com/coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)
+
 内核版本：6.6.63
+
 源版本：24.10
