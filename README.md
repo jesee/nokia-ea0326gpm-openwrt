@@ -42,7 +42,7 @@
      ```
 
 5. **刷入 OpenWrt 镜像**：
-   - 将 Internet 里面改成静态 IP 地址，`192.168.1.5`，掩码 `255.255.255.0`，网关 `192.168.1.1`，DNS：`192.168.1.1`
+   - 将 Internet 里面改成静态 IP 地址，`192.168.1.5`，子网掩码 `255.255.255.0`
    - 然后网页打开 `192.168.1.1`，点击选择按钮选镜像，将“基于 LEDE 编译镜像/openwrt-mediatek-filogic-nokia_ea0326gmp-squashfs-sysupgrade.bin”上传点击 upload，等待上传完成，点击 update，更新完成后设备自动重启
 
 6. **重启之后将 Internet 设置恢复成 DHCP**，然后打开 `192.168.1.1`，用户名 `root`，密码 `password`
