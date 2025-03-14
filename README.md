@@ -35,6 +35,11 @@
      ```bash
      insmod mtd-rw i_want_a_brick=1
      ```
+   - 解锁完之后，如果你想刷immortalwrt或者openwrt原版kwrt，建议刷入`刷入uboot分区/mt7981_bell_ea0326gmp-fip-fixed-parts-multi-layout-CN.bin`
+     将本教程中的`刷入uboot分区/mt7981_bell_ea0326gmp-fip-fixed-parts-multi-layout-CN.bin`文件拖入/tmp目录然后执行以下代码
+     ```
+     mtd write /tmp/mt7981_bell_ea0326gmp-fip-fixed-parts-multi-layout-CN.bin FIP
+     ```
 
 5. **刷入 OpenWrt 镜像**：
    - 将 Internet 里面改成静态 IP 地址，`192.168.1.5`，掩码 `255.255.255.0`，网关 `192.168.1.1`，DNS：`192.168.1.1`
