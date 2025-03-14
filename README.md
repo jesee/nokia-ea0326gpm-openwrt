@@ -58,3 +58,7 @@
 内核版本：6.6.63
 
 源版本：24.10
+
+openwrt固件下载地址：[https://dl.openwrt.ai/firmware/mediatek-filogic/nokia_ea0326gmp/]
+
+immortalwrt固件下载地址：[https://downloads.immortalwrt.org/releases/23.05.3/targets/mediatek/filogic/]
